@@ -1,5 +1,7 @@
 # FUT ALERT
 
+This project is currently used by some twitch streamer on their telegram group, to know before others, information about the game
+
 ## Introduction
 
 This is a telegram bot, that send notification about FUT ingame changes.
@@ -34,3 +36,7 @@ These are the features available:
 
 - ### Relist notification
   The bot will send a notification to users to relist
+
+
+TAGS:
+#FIFA #FUT22 #FUT #TELEGRAM
