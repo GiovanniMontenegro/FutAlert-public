@@ -1,4 +1,4 @@
-# FUT WATCHER
+# FUT ALERT
 
 ## Introduction
 
